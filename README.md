@@ -1,1 +1,1 @@
-# Ethnus_BS_JS
+# Mern_Assignment2
